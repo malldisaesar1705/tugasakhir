@@ -1,0 +1,2 @@
+/ndn/coba 1
+/ndn 2
